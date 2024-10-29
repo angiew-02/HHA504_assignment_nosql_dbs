@@ -27,17 +27,17 @@ PatientID,Name,Age,Gender,DiagnosisCode,VisitDate,Hospital,TreatmentPlan,FollowU
 
 ### 1. Start and Configure Databases
 - **Google BigQuery (GCP):**
-
+![dataset_table](https://github.com/user-attachments/assets/7b605b89-991b-4890-9522-1b106a91bcb3)
 - **MongoDB Atlas (Cloud):**
-
-- **Redis Cloud:**
-
+![mongoDB_atlas](https://github.com/user-attachments/assets/02b969a5-b49c-43a9-b688-20009bba9221)
 ### 2. Explore BigQuery (GCP)
 - **BigQuery:**
-
+![BigQuery_explore](https://github.com/user-attachments/assets/25fecf77-ad69-42ba-8830-d25101a3828a)
 ### 3. Modify and Explore the Data in MongoDB Atlas and Redis Cloud
 - **MongoDB Atlas**:
-
+  Key features include: A multi-cloud deployment which allows databases from AWS, Azure, and google cloud.
+  Automated Operations which allows for high performance and availabity. Consist of a Unified Query API which can work with different types of data structures. Their integrated data services include full-text search, real time analytics, and data visualization. Lastly they have a robust security measure which include an end to end encryption.
+  Their interface is very user-friendly with Atlas UI. Their key features include data explorer which allows managing of databases and collection of documents at ease. In addition they have aggregation pipline builder which can create and run aggretation piplines to process and analyze data. Lastly, they have real time analytics and visualization which build charts for better view of the dataset. 
 - **Redis Cloud**:
-
+  Key features include a fully managed service which 
 ### 4. Describe Your Experience
